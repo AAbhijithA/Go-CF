@@ -1,9 +1,13 @@
+/*
+Vanya and Cubes : 492A
+Rating: 800
+*/
+
 package main
- 
+
 import (
 	"fmt"
 )
- 
 
 func main(){
     var C int
