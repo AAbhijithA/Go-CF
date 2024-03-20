@@ -1,7 +1,7 @@
 /*
 Can I Square? : 
 Rating : 1000
-Concepts : Binary Search, Geometry, Square Roots 
+Concepts : Binary Search, Geometry, Prefix Sums
 */
 
 package main
