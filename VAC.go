@@ -1,7 +1,7 @@
 /*
 Vanya and Cubes : 492A
 Rating : 800
-Concepts: Math and Logic
+Concepts : Math and Logic
 */
 
 package main
