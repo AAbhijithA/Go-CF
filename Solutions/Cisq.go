@@ -1,5 +1,5 @@
 /*
-Can I Square? : 
+Can I Square? : 1915C
 Rating : 1000
 Concepts : Binary Search, Geometry, Prefix Sums
 */
