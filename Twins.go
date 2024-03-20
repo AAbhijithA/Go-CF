@@ -1,6 +1,7 @@
 /*
 Twins : 160A
 Rating : 900
+Concepts : Prefix Sums and Sorting
 */
 
 package main
